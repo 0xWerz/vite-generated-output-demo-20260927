@@ -1,0 +1,12 @@
+{
+  "name": "vite-generated-output-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node prepare.mjs && vite --host 0.0.0.0",
+    "build": "node prepare.mjs && vite build"
+  },
+  "dependencies": {
+    "vite": "6.4.3"
+  }
+}
